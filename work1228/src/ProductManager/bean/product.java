@@ -22,6 +22,20 @@ public class product {
     private String publisher;
     private Date date;
 
+    @Override
+    public String toString() {
+        return "product{" +
+                "id=" + id +
+                ", prodName='" + prodName + '\'' +
+                ", proPrice=" + proPrice +
+                ", publisher='" + publisher + '\'' +
+                ", date=" + date +
+                ", prodColor='" + prodColor + '\'' +
+                ", prodCount=" + prodCount +
+                ", cateId=" + cateId +
+                '}';
+    }
+
     public product(Integer id, String prodName, Float proPrice, String publisher, Date date, String prodColor, Integer prodCount, Integer cateId) {
         this.setId(id);
         this.setProdName(prodName);

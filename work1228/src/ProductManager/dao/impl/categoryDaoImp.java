@@ -48,6 +48,36 @@ public class categoryDaoImp extends BaseDao implements categoryDao<category> {
         return null;
     }
 
+    //查找所有二级类别
+    public List<category> querySec(){
+    //增加一个结果集合
+        List<category> ps = new ArrayList<>();
+        //组建sql指令
+        String sql = new String("select * from category where parentid is not null");
+        try {
+            //开启连接
+            super.open_db();
+            //创建通讯对象
+            super.sta = super.conn.prepareStatement(sql);
+            //执行命令 得到结果集
+            super.rs = super.sta.executeQuery();
+            //对结果进行解析
+            while (super.rs.next()){
+                category category = new category();
+                category.setId(super.rs.getInt(1));
+                category.setTitle(super.rs.getString(2));
+                category.setParentId(super.rs.getInt(3));
+                //将组装好的对象 存入集合中
+                ps.add(category);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            super.close_db();
+        }
+        return ps;
+    }
+
     //全查询
     @Override
     public List<category> queryAll() {
