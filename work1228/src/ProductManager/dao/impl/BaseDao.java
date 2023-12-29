@@ -7,6 +7,7 @@ public class BaseDao {
     //4个字符串
     private static final String DRIVER="com.mysql.cj.jdbc.Driver";
     private static final String URL="jdbc:mysql://localhost:3306/testdb5";
+
     private static final String USER="root";
     private static final String PWD="123456";
     //3个核心接口对象  连接对象  通讯对象 结果集对象(只服务于查询)

@@ -27,9 +27,7 @@ public class test {
                  */
                 //展示所有父类 新增类的第三个参数是父类中的一个
                 List<category> arr =  cate.queryAll();
-                for (category category : arr) {
-                    System.out.println(category);
-                }
+                arr.forEach(System.out::println);
                 System.out.println("输入你要添加的类的名称");
                 String name = sc.next();
                 System.out.println("输入你要添加的类的父类ID");

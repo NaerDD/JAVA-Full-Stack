@@ -1,0 +1,130 @@
+1. 什么是类 什么是对象 它们的关系如何
+现实: 万物皆对象  类是一组具有相同特征和相似行为的对象集合    先有对象 抽离出类
+程序: 类是模子 对象是类的实例化结果                                            先定义类 后实例化生成对象
+2. 类的成员有哪些? 方法的组成元素
+类的成员  属性  方法  构造器  代码块  成员内部类
+方法的组成   修饰符 返回值类型 方法名称 参数列表 方法主体
+3. 什么是方法重载 方法重载有什么优点
+overload 在一个类中  有 两个 或 多个方法  它们的方法名称相同  参数列表不同 形成方法重载 
+所谓参数列表不同 是指 参数的 数量  或 类型 或 顺序不同
+4. 什么是封装? 封装的优点有哪些?
+隐藏具体实现 提供对外调用的方法名 
+方法封装逻辑代码--> 提高代码的复用性 安全性
+方法封装属性--> 提供数据的完整性 
+  
+5. 方法的参数使用基本数据类型和引用数据类型有什么区别?
+方法的参数是基本数据类型 传递的就是数据值 值传递  方法内进行的所有操作 不影响 调用方法声明的实参变量
+方法的参数是引用数据类型 传递的就是地址  引用传递   方法内进行的所有操作 会直接影响 调用方法声明的实参变量
+6. 列举10个常用的字符串方法 分别说明方法的 参数 返回值 功能
+自己参考笔记
+7. continue  break  return的异同
+三个关键字都有跳出的作用
+
+continue 只能在循环中使用     跳出本次循环 继续循环下一次
+break 可以在循环或switch语句块中使用  跳出整个语句块 继续执行语句块之外的代码
+return 必须在方法中使用 跳出整个方法
+
+8. 编写代码 生成5个1-10的不重复的随机数
+package com.hxzy;
+import java.util.Random;
+public class Demo {
+    public static void main(String[] args) {
+        //准备一个存储的容器
+        int[]  nums=new int[5];
+        //随机数生成器对象
+        Random ran=new Random();
+        for (int i = 0; i <nums.length ; ) {
+            int n=ran.nextInt(10)+1;
+            boolean boo=true;//默认新的随机数可以添加 是不重复的
+            for (int j = 0; j <i ; j++) {
+                if (n==nums[j]){
+                    boo=false;
+                    break;
+                }
+            }
+            if(boo){
+                nums[i]=n;
+                i++;
+            }
+        }
+        for (int i = 0; i <nums.length ; i++) {
+            System.out.print(nums[i]+"\t");
+        }
+    }
+}
+
+9.编写代码 对一个整型数组中的数据进行降序排序
+package com.hxzy;
+public class Demo1 {
+    public static void main(String[] args) {
+        int[] nums={2,11,3,7,6,14,5};
+        for (int i = 0; i <nums.length-1 ; i++) {
+            for (int j = i+1; j <nums.length ; j++) {
+                if (nums[i]<nums[j]){
+                    int temp=nums[i];
+                    nums[i]=nums[j];
+                    nums[j]=temp;
+                }
+            }
+        }
+        for (int i = 0; i <nums.length ; i++) {
+            System.out.print(nums[i]+"\t");
+
+        }
+    }
+}
+10. 设计一个学生实体类(学号 姓名 年龄 性别) 按照javabean标准
+package com.hxzy;
+
+public class Student {
+    public Student() {
+    }
+
+    public Student(String stuNo, String stuName, char stuSex, int stuAge) {
+        this.setStuAge(stuAge);
+        this.setStuName(stuName);
+        this.setStuNo(stuNo);
+        this.setStuSex(stuSex);
+    }
+
+    private String stuNo;
+    private String stuName;
+    private char stuSex;
+    private int stuAge;
+
+    public String getStuNo() {
+        return stuNo;
+    }
+
+    public void setStuNo(String stuNo) {
+        this.stuNo = stuNo;
+    }
+
+    public String getStuName() {
+        return stuName;
+    }
+
+    public void setStuName(String stuName) {
+        this.stuName = stuName;
+    }
+
+    public char getStuSex() {
+        return stuSex;
+    }
+
+    public void setStuSex(char stuSex) {
+        this.stuSex = stuSex;
+    }
+
+    public int getStuAge() {
+        return stuAge;
+    }
+
+    public void setStuAge(int stuAge) {
+        if (stuAge>=18&stuAge<=40){
+            this.stuAge = stuAge;
+        }else {
+            this.stuAge=18;
+        }
+    }
+}

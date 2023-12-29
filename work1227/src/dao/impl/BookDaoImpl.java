@@ -2,7 +2,6 @@ package dao.impl;
 
 import bean.book;
 import dao.BookDao;
-
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
