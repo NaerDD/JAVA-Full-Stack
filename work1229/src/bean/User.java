@@ -10,7 +10,6 @@ public class User {
     }
 
     public User(String u_name, String loginId, String loginPwd) {
-        this.u_id = u_id;
         this.u_name = u_name;
         this.loginId = loginId;
         this.loginPwd = loginPwd;
