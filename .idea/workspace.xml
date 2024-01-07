@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2104667a-2ddb-42ab-bfba-d9abe9e794f7" name="Changes" comment="2024/1/8 2:40 modify" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9c9467ae-7219-4cb0-aa8e-d32b520df3dc" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/lang/Comparable.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/lang/String.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M2LL5OrkvUHEVl501RX9pGTekG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/java65-master/java65-master/javaSE/ch01" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkSpace\work20240102\lib" />
+      <recent name="D:\JavaWorkSpace\work1229" />
+      <recent name="D:\JavaWorkSpace\work1228" />
+      <recent name="D:\JavaWorkSpace\work1227" />
+      <recent name="D:\JavaWorkSpace\work1226\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkSpace\work1228\src" />
+      <recent name="D:\JavaWorkSpace" />
+      <recent name="D:\JavaWorkSpace\.idea" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dao.impl" />
+      <recent name="HashMapItem" />
+      <recent name="" />
+      <recent name="doc" />
+      <recent name="com.yi.Thread.demo01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test (1)">
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductManager.test.test" />
+      <module name="work1228" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProductManager.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.test.test" />
+      <module name="work20240102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2104667a-2ddb-42ab-bfba-d9abe9e794f7" name="Changes" comment="" />
+      <created>1676960675798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676960675798</updated>
+      <workItem from="1676960678527" duration="644000" />
+      <workItem from="1678175694368" duration="267000" />
+      <workItem from="1678176914794" duration="2011000" />
+      <workItem from="1678262572416" duration="2134000" />
+      <workItem from="1678370308727" duration="919000" />
+      <workItem from="1678435192765" duration="3906000" />
+      <workItem from="1678774126233" duration="16577000" />
+      <workItem from="1678945113163" duration="3110000" />
+      <workItem from="1678954956368" duration="1834000" />
+      <workItem from="1678981657471" duration="3444000" />
+      <workItem from="1679071809784" duration="31000" />
+      <workItem from="1680428837435" duration="6000" />
+      <workItem from="1698067847471" duration="3111000" />
+      <workItem from="1698083206038" duration="2981000" />
+      <workItem from="1698153669077" duration="594000" />
+      <workItem from="1698168592650" duration="9874000" />
+      <workItem from="1698223949531" duration="1523000" />
+      <workItem from="1698301068240" duration="9334000" />
+      <workItem from="1698385331704" duration="10957000" />
+      <workItem from="1698634772774" duration="674000" />
+      <workItem from="1698924157095" duration="21000" />
+      <workItem from="1699513263940" duration="597000" />
+      <workItem from="1699523585952" duration="89000" />
+      <workItem from="1699534483529" duration="3473000" />
+      <workItem from="1699578672809" duration="5941000" />
+      <workItem from="1699597860459" duration="5332000" />
+      <workItem from="1699605144071" duration="2775000" />
+      <workItem from="1699625998972" duration="1015000" />
+      <workItem from="1699791517146" duration="221000" />
+      <workItem from="1699799836599" duration="4149000" />
+      <workItem from="1699804063053" duration="2943000" />
+      <workItem from="1699950512355" duration="2973000" />
+      <workItem from="1699960588269" duration="137000" />
+      <workItem from="1699960864082" duration="2740000" />
+      <workItem from="1699971937416" duration="4301000" />
+      <workItem from="1700039712351" duration="1084000" />
+      <workItem from="1700045371735" duration="5721000" />
+      <workItem from="1700192736102" duration="1811000" />
+      <workItem from="1700312214696" duration="26000" />
+      <workItem from="1700315871098" duration="1220000" />
+      <workItem from="1700476949409" duration="4472000" />
+      <workItem from="1700533739264" duration="4815000" />
+      <workItem from="1700546792881" duration="9198000" />
+      <workItem from="1700563304558" duration="3208000" />
+      <workItem from="1700640844458" duration="75000" />
+      <workItem from="1700704824349" duration="619000" />
+      <workItem from="1700719607000" duration="996000" />
+      <workItem from="1700721244701" duration="1070000" />
+      <workItem from="1700726562702" duration="6471000" />
+      <workItem from="1700788217605" duration="14525000" />
+      <workItem from="1701005397828" duration="3740000" />
+      <workItem from="1701068809977" duration="2967000" />
+      <workItem from="1701075249983" duration="8852000" />
+      <workItem from="1701134821708" duration="1998000" />
+      <workItem from="1701152872342" duration="9795000" />
+      <workItem from="1701248581724" duration="5776000" />
+      <workItem from="1701308120189" duration="1723000" />
+      <workItem from="1701324012555" duration="12354000" />
+      <workItem from="1701340421458" duration="2366000" />
+      <workItem from="1701402481881" duration="232000" />
+      <workItem from="1701422378930" duration="262000" />
+      <workItem from="1701442554274" duration="7100000" />
+      <workItem from="1701678751459" duration="2716000" />
+      <workItem from="1701756791102" duration="8031000" />
+      <workItem from="1701833767433" duration="6626000" />
+      <workItem from="1701919527342" duration="1703000" />
+      <workItem from="1701929349947" duration="6736000" />
+      <workItem from="1702001804996" duration="1730000" />
+      <workItem from="1702015218601" duration="2352000" />
+      <workItem from="1702026658735" duration="1085000" />
+      <workItem from="1702189503847" duration="9978000" />
+      <workItem from="1702283230903" duration="3314000" />
+      <workItem from="1702370739910" duration="11748000" />
+      <workItem from="1702436764277" duration="998000" />
+      <workItem from="1702451484000" duration="13451000" />
+      <workItem from="1702471829753" duration="12000" />
+      <workItem from="1702524934138" duration="1176000" />
+      <workItem from="1702543058292" duration="9843000" />
+      <workItem from="1702602555454" duration="4681000" />
+      <workItem from="1702620405483" duration="2696000" />
+      <workItem from="1702801540195" duration="4919000" />
+      <workItem from="1702881553792" duration="3824000" />
+      <workItem from="1702977188679" duration="6283000" />
+      <workItem from="1703149640477" duration="9740000" />
+      <workItem from="1703163016120" duration="12627000" />
+      <workItem from="1703175769510" duration="488000" />
+      <workItem from="1703207458031" duration="361000" />
+      <workItem from="1703207832253" duration="282000" />
+      <workItem from="1703208126155" duration="3574000" />
+      <workItem from="1703317695506" duration="4073000" />
+      <workItem from="1703323343656" duration="1685000" />
+      <workItem from="1703325055823" duration="28000" />
+      <workItem from="1703325094711" duration="445000" />
+      <workItem from="1703325607133" duration="1307000" />
+      <workItem from="1703495921992" duration="4411000" />
+      <workItem from="1703507559863" duration="3558000" />
+      <workItem from="1703552654128" duration="4260000" />
+      <workItem from="1703570264282" duration="13283000" />
+      <workItem from="1703641609681" duration="6578000" />
+      <workItem from="1703657003347" duration="7038000" />
+      <workItem from="1703666426404" duration="10463000" />
+      <workItem from="1703690417836" duration="5580000" />
+      <workItem from="1703725400353" duration="657000" />
+      <workItem from="1703748694746" duration="6269000" />
+      <workItem from="1703812483962" duration="2525000" />
+      <workItem from="1703818871285" duration="52000" />
+      <workItem from="1703819610547" duration="2232000" />
+      <workItem from="1703830490269" duration="11305000" />
+      <workItem from="1703842927108" duration="717000" />
+      <workItem from="1704031350864" duration="331000" />
+      <workItem from="1704110643983" duration="604000" />
+      <workItem from="1704127466161" duration="2111000" />
+      <workItem from="1704174789836" duration="8105000" />
+      <workItem from="1704246824840" duration="1879000" />
+      <workItem from="1704261295404" duration="4327000" />
+      <workItem from="1704353781587" duration="14000" />
+      <workItem from="1704651865494" duration="553000" />
+      <workItem from="1704652608696" duration="32000" />
+      <workItem from="1704652708688" duration="58000" />
+      <workItem from="1704652792859" duration="62000" />
+      <workItem from="1704652891262" duration="1076000" />
+    </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1703175521738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703175521738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11">
+      <created>1703175686726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703175686726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2023/12/28">
+      <created>1703695393192</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703695393192</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2023/12/28 16:58">
+      <created>1703753935448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703753935448</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2023/12/29 17:42">
+      <created>1703842989217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703842989217</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2024/1/3 15:56">
+      <created>1704268599917</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704268599917</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2024/1/3 15:56">
+      <created>1704651875167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704651875167</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2024/1/8 2:24 电竞酒店住爽了 回来加班到两点">
+      <created>1704651905572</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704651905572</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2024/1/8 2:24 电竞酒店住爽了 回来加班到两点">
+      <created>1704651913792</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704651913792</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2024/1/8 2:24 电竞酒店住爽了 回来加班到两点">
+      <created>1704652048549</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652048549</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2024/1/8 2:24 电竞酒店住爽了 回来加班到两点">
+      <created>1704652153293</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652153293</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2024/1/8 2:24 电竞酒店住爽了 回来加班到两点">
+      <created>1704652409713</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652409713</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2024/1/8 2:24 电竞酒店住爽了 回来加班到两点">
+      <created>1704652630663</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652630663</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2024/1/8 2:40 modify">
+      <created>1704652812372</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652812373</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2024/1/8 2:40 modify">
+      <created>1704652826629</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652826629</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2024/1/8 2:40 modify">
+      <created>1704652846584</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652846584</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2024/1/8 2:40 modify">
+      <created>1704652906150</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652906150</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2024/1/8 2:40 modify">
+      <created>1704652963295</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704652963295</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2024/1/8 2:40 modify">
+      <created>1704653209035</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704653209035</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2024/1/8 2:40 modify">
+      <created>1704653505979</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704653505979</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2024/1/8 2:40 modify">
+      <created>1704653942694</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704653942694</updated>
+    </task>
+    <task id="LOCAL-00022" summary="2024/1/8 2:40 modify">
+      <created>1704653964239</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704653964239</updated>
+    </task>
+    <task id="LOCAL-00023" summary="2024/1/8 2:40 modify">
+      <created>1704653968083</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704653968083</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="d2feb76c-065b-44b3-91da-f0a8785e444d">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/JavaWorkSpace/work1229" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d2feb76c-065b-44b3-91da-f0a8785e444d" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <MESSAGE value="2023/12/28" />
+    <MESSAGE value="2023/12/28 16:58" />
+    <MESSAGE value="2023/12/29 17:42" />
+    <MESSAGE value="2024/1/3 15:56" />
+    <MESSAGE value="2024/1/8 2:24 电竞酒店住爽了 回来加班到两点" />
+    <MESSAGE value="2024/1/8 2:40 modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/1/8 2:40 modify" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaWorkSpace$Test8.ic" NAME="Test8 Coverage Results" MODIFIED="1701335997162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
